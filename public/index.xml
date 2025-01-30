@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Eikanger&#39;s Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ryan Eikanger&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jan 2025 11:59:03 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Thu, 30 Jan 2025 11:59:03 -0600</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      
+      <description>&lt;h1 id=&#34;nixos-homelab&#34;&gt;NixOS Homelab&lt;/h1&gt;
+&lt;h1 id=&#34;skywatch&#34;&gt;Skywatch&lt;/h1&gt;
+&lt;p&gt;Flight and Weather Tracker&lt;br&gt;
+Live Demo: &lt;a href=&#34;https://skywatch.reika.io/&#34;&gt;skywatch.reika.io&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Thu, 30 Jan 2025 11:56:42 -0600</pubDate>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      
+      <description>&lt;p&gt;&lt;a href=&#34;&#34;&gt;PDF Copy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ryan Eikanger&lt;/strong&gt;&lt;br&gt;
+Eden Prairie, MN&lt;br&gt;
+Phone: 651-366-7389 | Email: &lt;a href=&#34;mailto:reikanger@gmail.com&#34;&gt;reikanger@gmail.com&lt;/a&gt;&lt;br&gt;
+LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/reikanger/&#34;&gt;https://www.linkedin.com/in/reikanger/&lt;/a&gt;&lt;br&gt;
+Portfolio: &lt;a href=&#34;https://github.com/reikanger&#34;&gt;https://github.com/reikanger&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Incident response specialist seeking a role in data science, machine learning, or Linux system administration. Proven ability to analyze data, communicate findings, lead under pressure, and remain calm in critical situations.&lt;/p&gt;
+&lt;h2 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, Shell, JavaScript, SQL&lt;br&gt;
+&lt;strong&gt;Data Science:&lt;/strong&gt; Pandas, NumPy, Matplotlib, BeautifulSoup, Scikit-learn, TensorFlow&lt;br&gt;
+&lt;strong&gt;Databases:&lt;/strong&gt; PostgreSQL, MySQL, MongoDB, ElasticSearch, SQLAlchemy, PyMongo&lt;br&gt;
+&lt;strong&gt;Big Data&lt;/strong&gt;: Hadoop, MRJob, Apache Spark, PySpark&lt;br&gt;
+&lt;strong&gt;Systems and DevOps:&lt;/strong&gt; Linux, Red Hat, NixOS, Git, Docker, Podman, Terraform, Ansible, SaltStack&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About Ryan</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 30 Jan 2025 11:15:42 -0600</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+      <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Python and Linux. Gifted a Red Hat installation CD by my uncle.&lt;/p&gt;
+&lt;h1 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h1&gt;
+&lt;p&gt;Incident response with Mandiant&lt;/p&gt;
+&lt;h1 id=&#34;homelab&#34;&gt;Homelab&lt;/h1&gt;
+&lt;p&gt;In my spare time, I am passionate about homelab work. I use a custom built Intel X99 system as my main server and a DigitalOcean VPS with services on each. To manage my containers, I use Podman, and Nginx serves as my reverse proxy. This setup allows me to experiment with various technologies and maintain a lab platform and useful services for me and my family.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

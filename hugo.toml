@@ -1,0 +1,71 @@
+title = "Ryan Eikanger's Site"
+baseURL = 'https://reika.io/'
+languageCode = 'en-us'
+defaultContentLanguage = "en-us"
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
+[params]
+  goToTop = true
+
+[menu]
+  [[menu.main]] # "main" refers to the main menu
+    name = "Home" # The text that appears in the menu
+    url = "/"      # The link URL (usually "/")
+    weight = 1     # Optional: The order of the link in the menu (lower weight = earlier)
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/" # Or "/about" if that's how your URL is.
+    weight = 2
+
+  [[menu.main]]
+    name = "Projects"  # Example for a blog section
+    url = "/projects/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/" # Full URL for external links
+    weight = 4
+
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume/" # Full URL for external links
+    weight = 4
+
+[params.author]
+  avatar = "avatar.jpg"
+  intro = "Ryan's Blog"
+  name = "Ryan Eikanger"
+  description = "Linux Enthusiast | Self-Hosting | DevOps | AI/ML"
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/reikanger"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/reikanger/"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/reikanger"
+
+[[params.socialIcons]]
+name = "kaggle"
+url = "https://www.kaggle.com/reika1"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/reikanger/"
+
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://infosec.exchange/@reika"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:reikanger@gmail.com"
