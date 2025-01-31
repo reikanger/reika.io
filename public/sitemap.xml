@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://reika.io/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2025-01-30T11:59:03-06:00</lastmod>
   </url><url>
-    <loc>https://reika.io/</loc>
+    <loc>/</loc>
     <lastmod>2025-01-30T11:59:03-06:00</lastmod>
   </url><url>
-    <loc>https://reika.io/resume/</loc>
+    <loc>/resume/</loc>
     <lastmod>2025-01-30T11:56:42-06:00</lastmod>
   </url><url>
-    <loc>https://reika.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2025-01-30T11:15:42-06:00</lastmod>
   </url><url>
-    <loc>https://reika.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://reika.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

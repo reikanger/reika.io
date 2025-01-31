@@ -1,7 +1,7 @@
 {
     "name": "Ryan Eikanger's Site",
     "short_name": "Ryan Eikanger's Site",
-    "start_url": "https://reika.io/",
+    "start_url": "/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",

@@ -11,6 +11,12 @@ defaultContentLanguage = "en-us"
 [params]
   goToTop = true
 
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true
+
 [menu]
   [[menu.main]] # "main" refers to the main menu
     name = "Home" # The text that appears in the menu
