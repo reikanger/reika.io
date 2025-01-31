@@ -65,7 +65,7 @@ February 2012 – December 2014
 * **Mortgage Rates Exploratory Analysis:** Conducted an analysis of CFPB data, highlighting skills in data analysis and interpretation.
   - [GitHub Repository](https://github.com/reikanger/mortgage-rate-insights)
 
-Education
+## Education
 
 * **Certificate, Data Visualization and Analytics Boot Camp:** University of Minnesota
 * **Certificate, GIAC Cloud Forensics Responder (GCFR):** GIAC
