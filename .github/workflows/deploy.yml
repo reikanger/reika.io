@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Setup Hugo
-        uses: reikanger/reika.io
+        uses: reikanger/reika.io@main
         with:
           hugo-version: 'latest' # Or specify a version
           extended: true # Set to true if you use Hugo extended
