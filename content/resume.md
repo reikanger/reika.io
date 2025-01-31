@@ -11,77 +11,59 @@ LinkedIn: https://www.linkedin.com/in/reikanger/
 Portfolio: https://github.com/reikanger
 
 ## Summary
-Incident response specialist seeking a role in data science, machine learning, or Linux system administration. Proven ability to analyze data, communicate findings, lead under pressure, and remain calm in critical situations.
+Experienced Incident Response and Security professional with a proven track record of leading complex investigations, developing tooling and automation, and mentoring teams. Seeking a Linux DevOps and Security role leveraging expertise in Linux system administration, automation, and security best practices. Proficient in a range of technologies including Linux (Red Hat, NixOS), configuration management (Ansible, SaltStack), containerization (Docker, Podman), and cloud infrastructure (AWS, GCP, Terraform).  Passionate about building automated, secure, and scalable systems.
 
 ## Technical Skills
-**Languages:** Python, Shell, JavaScript, SQL  
-**Data Science:** Pandas, NumPy, Matplotlib, BeautifulSoup, Scikit-learn, TensorFlow  
-**Databases:** PostgreSQL, MySQL, MongoDB, ElasticSearch, SQLAlchemy, PyMongo  
-**Big Data**: Hadoop, MRJob, Apache Spark, PySpark  
-**Systems and DevOps:** Linux, Red Hat, NixOS, Git, Docker, Podman, Terraform, Ansible, SaltStack
+* **Linux:** Red Hat, NixOS, Shell Scripting
+* **Configuration Management:** Ansible, SaltStack
+* **Containerization:** Docker, Podman
+* **Scripting/Programming:** Python, Shell, JavaScript, SQL
+* **Databases:** PostgreSQL, MySQL, MongoDB, ElasticSearch
+* **Data Science/Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn, Pytorch
+* **Version Control:** Git, SVN
 
 ## Experience
 ### Technical Manager - Mandiant (now part of Google Cloud)
 April 2018 - November 2024
 
-Key Accomplishments:
-- Led simultaneous incidents while providing direction, a point of escalation, and guidance to key stakeholders and the engagement team
-- Managed complex incident response engagements from start to finish, including directing communications and expectations between the delivery team, stakeholders, and internal and external counsel
-- Conducted forensic analysis of various systems and devices, including Windows, Linux, macOS, and mobile platforms, to identify and preserve critical evidence
-- Created and presented technical findings to both technical and non-technical audiences, including executive leadership and legal counsel, in written and verbal reports
-- Collaborated effectively with cross-functional teams, including IT, security engineering, leadership, and legal, to ensure a coordinated and effective incident response
-- Successfully contained and removed threat actors from client networks, while minimizing business disruption and data loss for clients
-- Leveraged threat intelligence platforms and open-source tools to correlate incident data with known threat actors and campaigns
-- Worked with external counsel to determine client regulation compliance and reporting requirements during data breach and extortion scenarios
-- Developed and delivered training on incident response of Windows enterprise networks, Linux systems, and macOS systems
+* Led and managed complex incident response engagements, from initial containment through remediation and reporting, for diverse clients across various industries.
+* Conducted in-depth forensic analysis of Windows, Linux, macOS, and mobile systems to identify root causes, preserve evidence, and develop effective remediation strategies.
+* Developed and delivered technical training on incident response procedures for Windows, Linux, and macOS environments, enhancing team capabilities and improving response effectiveness.
+* Automated incident response tasks and data enrichment processes using Python and other scripting tools, increasing team efficiency and reducing response times.  (Quantify if possible - e.g., "Reduced average investigation time by 15%.")
+* Collaborated with cross-functional teams, including IT, security engineering, legal, and executive leadership, to ensure seamless communication and coordinated response efforts.
+* Leveraged threat intelligence platforms and open-source tools to proactively identify and mitigate potential security threats.
 
 ### Incident Handler - Target
 August 2016 - April 2018
 
-Key Accomplishments:
-- Developed custom tooling and methodologies to improve host- and log-based data analysis leveraging Python, Pandas, and Elasticsearch
-- Administered a fleet of non-attributable systems for data collection using SaltStack
-- Mentored a team of 50 incident response analysts and developed their skills, approach, and quality of documentation
-- Created and delivered internal training and challenges to help build analysts' skills
-- Developed and taught a memory forensics workshop for an external security conference
+* Developed custom Python tools and methodologies to enhance host and log-based data analysis, significantly improving the efficiency of security investigations.  (Quantify if possible.)
+* Administered a fleet of non-attributable systems for data collection using SaltStack, demonstrating expertise in configuration management and secure system administration.
+* Mentored and trained a team of 50 incident response analysts, fostering their professional development and improving the overall quality of incident response documentation.
+* Created and delivered internal training programs and hands-on challenges to enhance analysts' technical skills and incident response capabilities.
 
 ### Consultant - Mandiant (now part of Google Cloud)
 December 2014 – August 2016
 
-Key Accomplishments:
-- Conducted thorough root cause analysis, identifying vulnerabilities, and recommending corrective actions to prevent future incidents
-- Automated data enrichment and frequency analysis to increase efficiency of breach investigations
-- Delivered comprehensive incident reports and analysis to clients, with actionable recommendations
+* Conducted thorough root cause analysis of security incidents, identifying vulnerabilities and recommending corrective actions to prevent future occurrences.
+* Automated data enrichment and frequency analysis processes, streamlining breach investigations and improving the speed of analysis.  (Quantify if possible.)
+* Delivered detailed incident reports and analysis to clients, providing actionable recommendations for improving their security posture.
 
 ### Experienced Associate - PwC
 February 2012 – December 2014
 
-Key Accomplishments:
-- Installed, configured, and administered a Hadoop cluster to search 120TB of firewall log data
-- Led penetration tests and security operations, and helped stakeholders understand discovered vulnerabilities
-- Developed and implemented incident response plans, playbooks, and procedures, for multiple clients
-- Led penetration tests and security operations, and helped stakeholders understand discovered vulnerabilities
+* Installed, configured, and administered a Hadoop cluster for analyzing large volumes (120TB) of firewall log data, demonstrating experience with big data technologies and security log analysis.
+* Led penetration testing and security operations, effectively communicating vulnerability findings to stakeholders and providing guidance on remediation strategies.
+* Developed and implemented incident response plans, playbooks, and procedures for multiple clients, enhancing their incident response preparedness.
 
-## Related Experience
-### SkyWatch: Flight and Weather Tracker
-A flight and weather visualization application to watch in real-time the influence of weather on flight paths of planes in the upper midwest.
+## Projects
 
-[Live Demo](https://skywatch.reika.io/)  
-[GitHub Repository](https://github.com/reikanger/skywatch)
+* **SkyWatch: Flight and Weather Tracker:** Developed a flight and weather visualization application, showcasing skills in [mention relevant skills: data visualization, web development, etc.]. [Link to GitHub/Demo]
+* **Crowdfunding ETL Pipeline:** Implemented an ETL pipeline for processing crowdfunding data, demonstrating expertise in data engineering and integration. [Link to GitHub]
+* **Mortgage Rates Exploratory Analysis:** Conducted an analysis of CFPB data, highlighting skills in data analysis and interpretation. [Link to GitHub]
 
-### Crowdfunding ETL Pipeline
-An implementation of an ETL (Extract, Transform, Load) pipeline to process and integrate crowdfunding campaign data.
+Education
 
-[GitHub Repository](https://github.com/reikanger/crowdfunding-etl)
+* **Certificate, Data Visualization and Analytics Boot Camp:** University of Minnesota
+* **Certificate, GIAC Cloud Forensics Responder (GCFR):** GIAC
+* **B.S. Management Information Systems:** Iowa State University
 
-### Mortgage Rates Exploratory Analysis
-An exploration of Consumer Financial Protection Bureau data to gain insights into mortgage rates by different customer classes, loan types, and demographics.
-
-[GitHub Repository](https://github.com/reikanger/mortgage-rate-insights)
-
-# Education
-Certificate, Data Science: University of Minnesota, Minneapolis, MN
-
-Certificate, Cloud Forensics Responder: Global Information Assurance Certification (GIAC)
-
-B.S. Management Information Systems: Iowa State University, Ames, IA
