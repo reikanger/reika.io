@@ -29,7 +29,7 @@ April 2018 - November 2024
 * Led and managed complex incident response engagements, from initial containment through remediation and reporting, for diverse clients across various industries.
 * Conducted in-depth forensic analysis of Windows, Linux, macOS, and mobile systems to identify root causes, preserve evidence, and develop effective remediation strategies.
 * Developed and delivered technical training on incident response procedures for Windows, Linux, and macOS environments, enhancing team capabilities and improving response effectiveness.
-* Automated incident response tasks and data enrichment processes using Python and other scripting tools, increasing team efficiency and reducing response times.  (Quantify if possible - e.g., "Reduced average investigation time by 15%.")
+* Automated incident response tasks and data enrichment processes using Python and other scripting tools, increasing team efficiency and reducing response times.
 * Collaborated with cross-functional teams, including IT, security engineering, legal, and executive leadership, to ensure seamless communication and coordinated response efforts.
 * Leveraged threat intelligence platforms and open-source tools to proactively identify and mitigate potential security threats.
 
