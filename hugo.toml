@@ -1,5 +1,6 @@
 title = "Ryan Eikanger's Site"
-baseURL = 'https://reika.io/'
+baseURL = ''
+relativeURLs = "True"  # https://stackoverflow.com/questions/62114592/hugo-not-generating-the-same-styling-as-in-development-mode
 languageCode = 'en-us'
 defaultContentLanguage = "en-us"
 
