@@ -57,9 +57,13 @@ February 2012 – December 2014
 
 ## Projects
 
-* **SkyWatch: Flight and Weather Tracker:** Developed a flight and weather visualization application, showcasing skills in [mention relevant skills: data visualization, web development, etc.]. [Link to GitHub/Demo]
-* **Crowdfunding ETL Pipeline:** Implemented an ETL pipeline for processing crowdfunding data, demonstrating expertise in data engineering and integration. [Link to GitHub]
-* **Mortgage Rates Exploratory Analysis:** Conducted an analysis of CFPB data, highlighting skills in data analysis and interpretation. [Link to GitHub]
+* **SkyWatch: Flight and Weather Tracker:** Developed a flight and weather visualization application, showcasing skills in [mention relevant skills: data visualization, web development, etc.].
+  - [Live Demo](https://skywatch.reika.io/)
+  - [GitHub Repository](https://github.com/reikanger/skywatch)
+* **Crowdfunding ETL Pipeline:** Implemented an ETL pipeline for processing crowdfunding data, demonstrating expertise in data engineering and integration.
+  - [GitHub Repository](https://github.com/reikanger/crowdfunding-etl)
+* **Mortgage Rates Exploratory Analysis:** Conducted an analysis of CFPB data, highlighting skills in data analysis and interpretation.
+  - [GitHub Repository](https://github.com/reikanger/mortgage-rate-insights)
 
 Education
 
