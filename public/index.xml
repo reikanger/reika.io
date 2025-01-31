@@ -45,12 +45,8 @@ Portfolio: &lt;a href=&#34;https://github.com/reikanger&#34;&gt;https://github.c
       
       <guid>//localhost:1313/about/</guid>
       
-      <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
-&lt;p&gt;Python and Linux. Gifted a Red Hat installation CD by my uncle.&lt;/p&gt;
-&lt;h1 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h1&gt;
-&lt;p&gt;Incident response with Mandiant&lt;/p&gt;
-&lt;h1 id=&#34;homelab&#34;&gt;Homelab&lt;/h1&gt;
-&lt;p&gt;In my spare time, I am passionate about homelab work. I use a custom built Intel X99 system as my main server and a DigitalOcean VPS with services on each. To manage my containers, I use Podman, and Nginx serves as my reverse proxy. This setup allows me to experiment with various technologies and maintain a lab platform and useful services for me and my family.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;./avatar.jpg&#34; alt=&#34;Profile Picture&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I am an incident response professional with a Linux, Python, and security background. After graduating with a BS in Management Information Systems from Iowa State University, I started my career in security consulting. My professional work quickly moved to incident response, where I could leverage my skills with Linux and scripting to tackle large log data sets to help respond to adversaries in client networks. Through this work, I realized that my favorite part of incident response is transforming disparate data into a story. I recently returned to school to further pursue and hone my data science skills through the University of Minnesota. I greatly enjoy learning, whether playing a sport, building my home lab, or discovering new technologies. My analytical problem-solving abilities, strengths, and interests across several technical areas make me a valuable addition to any team.&lt;/p&gt;</description>
       
     </item>
     
