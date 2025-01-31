@@ -24,19 +24,24 @@ enableDefault = true
     weight = 1     # Optional: The order of the link in the menu (lower weight = earlier)
 
   [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Resume"
     url = "/resume/"
-    weight = 4
+    weight = 5
 
 [params.author]
   avatar = "avatar.jpg"

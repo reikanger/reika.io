@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ryan Eikanger&#39;s Site</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Ryan Eikanger&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2025 11:39:38 -0600</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Beginning</title>
+      <link>//localhost:1313/posts/a-new-beginning/</link>
+      <pubDate>Fri, 31 Jan 2025 11:39:38 -0600</pubDate>
+      
+      <guid>//localhost:1313/posts/a-new-beginning/</guid>
+      
+      <description>&lt;p&gt;For a decade, I dedicated myself to Security and Incident Response, working with Mandiant on some of the largest and consequential breaches of corporations and infrastructure. It was a challenging and rewarding career, a front-row seat to the ever-evolving landscape of cyber threats. I learned a tremendous amount, honed my analytical skills under pressure, and had the privilege of working alongside incredibly talented individuals. I&amp;rsquo;m deeply grateful for the experiences and relationships I forged during that time.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
