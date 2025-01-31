@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan Eikanger&#39;s Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://reika.io/</link>
     <description>Recent content on Ryan Eikanger&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jan 2025 11:59:03 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jan 2025 11:59:03 -0600</lastBuildDate><atom:link href="https://reika.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://reika.io/projects/</link>
       <pubDate>Thu, 30 Jan 2025 11:59:03 -0600</pubDate>
       
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://reika.io/projects/</guid>
       
       <description>&lt;h1 id=&#34;nixos-homelab&#34;&gt;NixOS Homelab&lt;/h1&gt;
 &lt;h1 id=&#34;skywatch&#34;&gt;Skywatch&lt;/h1&gt;
@@ -23,10 +23,10 @@ Live Demo: &lt;a href=&#34;https://skywatch.reika.io/&#34;&gt;skywatch.reika.io&
     
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
+      <link>https://reika.io/resume/</link>
       <pubDate>Thu, 30 Jan 2025 11:56:42 -0600</pubDate>
       
-      <guid>http://localhost:1313/resume/</guid>
+      <guid>https://reika.io/resume/</guid>
       
       <description>&lt;p&gt;&lt;a href=&#34;&#34;&gt;PDF Copy&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ryan Eikanger&lt;/strong&gt;&lt;br&gt;
@@ -47,10 +47,10 @@ Portfolio: &lt;a href=&#34;https://github.com/reikanger&#34;&gt;https://github.c
     
     <item>
       <title>About Ryan</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://reika.io/about/</link>
       <pubDate>Thu, 30 Jan 2025 11:15:42 -0600</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://reika.io/about/</guid>
       
       <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
 &lt;p&gt;Python and Linux. Gifted a Red Hat installation CD by my uncle.&lt;/p&gt;
