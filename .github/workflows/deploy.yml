@@ -24,6 +24,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/github-pages@v6
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./public
           cname: reika.io # Optional: Add your custom domain

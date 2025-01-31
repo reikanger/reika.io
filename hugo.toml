@@ -38,7 +38,7 @@ defaultContentLanguage = "en-us"
 
 [params.author]
   avatar = "avatar.jpg"
-  intro = "Ryan's Blog"
+  intro = "Ryan's Site"
   name = "Ryan Eikanger"
   description = "Linux Enthusiast | Self-Hosting | DevOps | AI/ML"
 
