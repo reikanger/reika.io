@@ -18,23 +18,18 @@ defaultContentLanguage = "en-us"
     weight = 1     # Optional: The order of the link in the menu (lower weight = earlier)
 
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/" # Or "/about" if that's how your URL is.
+    name = "Projects"
+    url = "/projects/"
     weight = 2
 
   [[menu.main]]
-    name = "Projects"  # Example for a blog section
-    url = "/projects/"
+    name = "About"
+    url = "/about/"
     weight = 3
 
   [[menu.main]]
-    name = "About"
-    url = "/about/" # Full URL for external links
-    weight = 4
-
-  [[menu.main]]
     name = "Resume"
-    url = "/resume/" # Full URL for external links
+    url = "/resume/"
     weight = 4
 
 [params.author]
